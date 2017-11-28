@@ -232,6 +232,8 @@ My Favorite Github Repositories
 
 ## Server-Side Swift
 
+Most of them can be used for Vapor framework. 
+
 
 ---
 
