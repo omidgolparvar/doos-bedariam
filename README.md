@@ -228,6 +228,110 @@ My Favorite Github Repositories
 - [ActiveLabel.Swift](https://github.com/optonaut/ActiveLabel.swift)
 👉 UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
 
+- [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
+👉 An elegant and simple progress HUD for iOS and tvOS.
+
+- [ios_calendar](https://github.com/maximbilan/ios_calendar)
+👉 iOS calendar component
+
+- [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo)
+👉 List installed Applications and scheme urls
+
+- [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift)
+👉 Swift based OAuth library for iOS
+
+- [SwiftCop](https://github.com/andresinaka/SwiftCop)
+👉 SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
+
+- [Epub-Reader](https://github.com/zeroCoder1/Epub-Reader)
+👉 Reads an ePub document for iPad/ iPhone
+
+- [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit)
+👉 A Swift ePub reader and parser framework for iOS.
+
+- [BMPlayer](https://github.com/BrikerMan/BMPlayer)
+👉 A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
+
+- [Player](https://github.com/piemonte/Player)
+👉 video player in Swift, simple way to play and stream media on iOS/tvOS
+
+- [VGPlayer](https://github.com/VeinGuo/VGPlayer)
+👉 A simple iOS video player by Vein.
+
+- [PlayerKit](https://github.com/vimeo/PlayerKit)
+👉 PlayerKit is a modular video player system for iOS and tvOS.
+
+- [spruce-ios](https://github.com/willowtreeapps/spruce-ios)
+👉 Swift library for choreographing animations on the screen.
+
+- [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+👉 A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text will not fit inside the specified frame. For Swift and Objective-C!
+
+- [TGLStackedViewController](https://github.com/gleue/TGLStackedViewController)
+👉 A stacked view layout with gesture-based reordering using a UICollectionView -- inspired by Passbook and Reminders apps.
+
+- [CardStackController](https://github.com/jobandtalent/CardStackController)
+👉 iOS custom controller used in Jobandtalent app to present new view controllers as cards
+
+- [AlamofireOauth2](https://github.com/evermeer/AlamofireOauth2)
+👉 A swift implementation of OAuth2
+
+- [sake](https://github.com/xcodeswift/sake)
+👉 A make-like build utility for Swift.
+
+- [Loader](https://github.com/silverlogic/Loader)
+👉 Amazing animated switch activity indicator written in swift
+
+- [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift)
+👉 AudioPlayer is a simple class for playing audio in iOS, macOS and tvOS apps.
+
+- [AudioPlayer](https://github.com/delannoyk/AudioPlayer)
+👉 AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
+
+- [texture](https://github.com/texturegroup/texture)
+👉 Smooth asynchronous user interfaces for iOS apps.
+
+- [IGListKit](https://github.com/Instagram/IGListKit)
+👉 A data-driven UICollectionView framework for building fast and flexible lists.
+
+- [RPCircularProgress](https://github.com/iwasrobbed/RPCircularProgress)
+👉 (Swift) Circular progress UIView subclass with UIProgressView properties
+
+- [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
+👉 ViewAnimator brings your UI to life with just one line
+
+---
+
+## Server-Side Swift
+
+- [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize)
+👉 Integration of GraphQL-Tools and Sequelize ORM
+
+- [heimdall](https://github.com/himani93/heimdall)
+👉 An easy to use HTTP request logger for Vapor: Web framework for swift
+
+- [swiftybeaver-provider](https://github.com/vapor-community/swiftybeaver-provider)
+👉 SwiftyBeaver Logging Provider for Vapor, the server-side Swift web framework
+
+- [leaf-error-middleware](https://github.com/brokenhandsio/leaf-error-middleware)
+👉 Serve up custom 404 and server error pages for your Vapor App
+
+- [Jobs](https://github.com/BrettRToomey/Jobs)
+👉 A job system for Swift backends.
+
+- [VaporSecurityHeaders](https://github.com/brokenhandsio/VaporSecurityHeaders)
+👉 Harden Your Security Headers For Vapor
+
+- [sendgrid-provider](https://github.com/vapor-community/sendgrid-provider)
+👉 SendGrid-powered mail backend for Vapor
+
+---
+
+## Client Side Web
+
+- [bulma-rtl](https://github.com/mohammadrafigh/bulma-rtl)
+👉 RTL fork of Bulma
+
 ---
 
 ## Objective-C
@@ -241,6 +345,12 @@ My Favorite Github Repositories
 
 - [Node JS Best Practice](https://github.com/i0natan/nodebestpractices)
 👉 The largest Node.JS best practices list. Curated from the top ranked articles and always updated.
+
+- [simple-oauth2](https://github.com/lelylan/simple-oauth2)
+👉 A simple Node.js client library for Oauth2
+
+- [node-oauth2-server](https://github.com/oauthjs/node-oauth2-server)
+👉 Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
 
 ---
 
@@ -257,5 +367,25 @@ My Favorite Github Repositories
 
 - [Awesome](https://github.com/sindresorhus/awesome)
 👉 Curated list of awesome lists.
+
+- [dirooz-font](https://github.com/rastikerdar/dirooz-font)
+👉 A Persian (Farsi) Font - قلم (فونت) فارسی دیروز
+
+- [minimalist](https://github.com/brothersincode/minimalist)
+👉 ویرایشگر مارک‌داون برای متون فارسی
+
+- [react-native-code-push](https://github.com/Microsoft/react-native-code-push)
+👉 React Native module for CodePush
+
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+👉 Awesome list of GraphQL & Relay
+
+- [awesome-ant-design](https://github.com/websemantics/awesome-ant-design)
+👉 A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
+
+- [react-redux-antd](https://github.com/Justin-lu/react-redux-antd)
+👉 react redux for CMS/Enterprise class App/ERP/Admin with ant-design
+
+
 
 
