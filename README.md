@@ -304,6 +304,8 @@ My Favorite Github Repositories
 
 ## Server-Side Swift
 
+Most of them can be used for Vapor framework. 
+
 - [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize)
 👉 Integration of GraphQL-Tools and Sequelize ORM
 
@@ -331,13 +333,6 @@ My Favorite Github Repositories
 
 - [bulma-rtl](https://github.com/mohammadrafigh/bulma-rtl)
 👉 RTL fork of Bulma
-
----
-
-## Server-Side Swift
-
-Most of them can be used for Vapor framework. 
-
 
 ---
 
