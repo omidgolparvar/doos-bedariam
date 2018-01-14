@@ -300,6 +300,15 @@ My Favorite Github Repositories
 - [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
 👉 ViewAnimator brings your UI to life with just one line
 
+- [Brick](https://github.com/hyperoslo/Brick)
+👉 A generic view model for both basic and complex scenarios
+
+- [Compass](https://github.com/hyperoslo/Compass)
+👉 Compass helps you setup a central navigation system for your application
+
+- [Spots](https://github.com/hyperoslo/Spots)
+👉 Spots is a cross-platform view controller framework for building component-based UIs
+
 ---
 
 ## Server-Side Swift
