@@ -309,6 +309,34 @@ My Favorite Github Repositories
 - [Spots](https://github.com/hyperoslo/Spots)
 👉 Spots is a cross-platform view controller framework for building component-based UIs
 
+- [xcode-todo-fixme-as-warning.sh](https://gist.github.com/codelahoma/715b24e0b6c885fb6629bea46f360188)
+👉 Highlight TODO and FIXME as warnings in Xcode 8 (add as script build phase)
+
+- [UIColor+RGB.swift](https://gist.github.com/mbigatti/c6be210a6bbc0ff25972)
+👉 UIColor extension that add a whole bunch of utility functions.
+
+- [TOCropViewController](https://github.com/TimOliver/TOCropViewController)
+👉 A view controller that allows users to crop UIImage objects.
+
+- [Dollar](https://github.com/ankurp/Dollar)
+👉 A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript
+
+- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)
+👉 A handy collection of more than 500 native Swift extensions to boost your productivity.
+
+- [SilentPush](https://github.com/ole/SilentPush)
+👉 An iOS test app for testing silent push notifications and background fetching.
+
+- [UINavigationBar-Transparent](https://github.com/IdleHandsApps/UINavigationBar-Transparent)
+👉 A UIViewController category that can make the navigation bar transparent
+
+- [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding)
+👉 IHKeyboardAvoiding is an elegant solution for keeping any UIView visible when the keyboard is being shown - no UIScrollView required!
+
+- [DesignableButton](https://github.com/IdleHandsApps/DesignableButton)
+👉 A Custom UIButton with Centralised Styling and common styles available in Interface Builder
+
+
 ---
 
 ## Server-Side Swift
