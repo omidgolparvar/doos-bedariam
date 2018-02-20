@@ -336,6 +336,74 @@ My Favorite Github Repositories
 - [DesignableButton](https://github.com/IdleHandsApps/DesignableButton)
 👉 A Custom UIButton with Centralised Styling and common styles available in Interface Builder
 
+- [MessageKit](https://github.com/MessageKit/MessageKit)
+👉 In-progress: A community-driven replacement for JSQMessagesViewController
+
+- [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView)
+👉 A simple and easily customizable InputAccessoryView for making message input bars! Featured in MessageKit
+
+- [DynamicTabBarController](https://github.com/nathantannar4/DynamicTabBarController)
+👉 An improved UITabBarController that is dynamic and has a scroll indicator line
+
+- [LGLinearFlow](https://github.com/lukagabric/LGLinearFlow)
+👉 iOS Collection View linear flow layout with zoom effect and variable page size; Swift 2.0 and ObjC
+
+- [Armchair](https://github.com/UrbanApps/Armchair)
+👉 A simple yet powerful App Review Manager for iOS and OSX in Swift
+
+- [Siren](https://github.com/ArtSabintsev/Siren)
+👉 Notify users when a new version of your app is available and prompt them to upgrade.
+
+- [LGLinearFlow](https://github.com/lukagabric/LGLinearFlow)
+👉 iOS Collection View linear flow layout with zoom effect and variable page size; Swift 2.0 and ObjC
+
+- [RMDateSelectionViewController](https://github.com/CooperRS/RMDateSelectionViewController)
+👉 This is an iOS control for selecting a date using UIDatePicker in an UIAlertController like manner
+
+- [Tabman](https://github.com/uias/Tabman)
+👉 A powerful paging view controller with tab bar.
+
+- [Pageboy](https://github.com/uias/Pageboy)
+👉 A simple, highly informative page view controller.
+
+- [PageMenu](https://github.com/PageMenu/PageMenu)
+👉 A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
+
+- [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
+👉 Meta-programming for Swift, stop writing boilerplate code.
+
+- [siesta](https://github.com/bustoutsolutions/siesta)
+👉 The civilized way to write REST API clients for iOS / macOS
+
+- [preview-transition](https://github.com/Ramotion/preview-transition)
+👉 PreviewTransition is a simple preview gallery UI controller
+
+- [PinterestSwift](https://github.com/demonnico/PinterestSwift)
+👉 This is a Swift based demo project to show how to make the transition Pinterest liked.
+
+- [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl)
+👉 Custom UISegmentedControl replacement for iOS, written in Swift
+
+- [Popover](https://github.com/corin8823/Popover)
+👉 Popover is a balloon library like Facebook app. It is written in pure swift.
+
+- [Instructions](https://github.com/ephread/Instructions)
+👉 Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.
+
+- [SwiftLint](https://github.com/realm/SwiftLint)
+👉 A tool to enforce Swift style and conventions.
+
+- [SkeletonView](https://github.com/Juanpe/SkeletonView)
+👉 An elegant way to show users that something is happening and also prepare them to which contents he is waiting
+
+- [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
+👉 ViewAnimator brings your UI to life with just one line
+
+- [Time](https://github.com/dreymonde/Time)
+👉 Type-safe time calculations in Swift, powered by generics
+
+- [DeepDiff](https://github.com/onmyway133/DeepDiff)
+👉 Very fast diffing in Swift
 
 ---
 
@@ -425,6 +493,11 @@ Most of them can be used for Vapor framework.
 - [react-redux-antd](https://github.com/Justin-lu/react-redux-antd)
 👉 react redux for CMS/Enterprise class App/ERP/Admin with ant-design
 
+- [prettier](https://github.com/prettier/prettier)
+👉 Prettier is an opinionated code formatter.
+
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+👉 Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 
 
 
