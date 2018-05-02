@@ -405,6 +405,244 @@ My Favorite Github Repositories
 - [DeepDiff](https://github.com/onmyway133/DeepDiff)
 👉 Very fast diffing in Swift
 
+- [Blueprints](https://github.com/zenangst/Blueprints)
+👉 A framework that is meant to make your life easier when working with collection view flow layouts.
+
+- [FunctionKit](https://github.com/mpangburn/FunctionKit)
+👉 A framework for functional types and operations designed to fit naturally into Swift.
+
+- [ScratchCardView](https://github.com/pgorzelany/ScratchCardView)
+👉 A scratch card view for iOS
+
+- [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions)
+👉 A simple way to create custom interactive UIViewController transitions
+
+- [layout](https://github.com/schibsted/layout)
+👉 A declarative UI framework for iOS
+
+- [StepIndicator](https://github.com/chenyun122/StepIndicator)
+👉 StepIndicator is an iOS library that indicates steps in an animated way.
+
+- [BouncyPageViewController](https://github.com/BohdanOrlov/BouncyPageViewController)
+👉 Page view controller with bounce effect
+
+- [EMSpinnerButton](https://github.com/egmoll7/EMSpinnerButton)
+👉 UIButton sublcass with loading animation
+
+- [api-manager](https://github.com/rauhul/api-manager)
+👉 Pod for abstracting restful api requests
+
+- [Gryphon](https://github.com/rinov/Gryphon)
+👉 Gryphon is a API client kit written in Swift.
+
+- [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios)
+👉 A powerful and completely customizable media player for iOS
+
+- [MotionBook](https://github.com/shoheiyokoyama/MotionBook)
+👉 Awesome iOS UI/UX Application (Open Source)
+
+- [SDCAlertView](https://github.com/sberrevoets/SDCAlertView)
+👉 The little alert that could
+
+- [AttributedLabel](https://github.com/KyoheiG3/AttributedLabel)
+👉 Easy to use, fast, and higher performance than UILabel.
+
+- [Keynode](https://github.com/KyoheiG3/Keynode)
+👉 Interactive Keyboard Controller for Swift
+
+- [PureLayout](https://github.com/PureLayout/PureLayout)
+👉 The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
+
+- [Swinject](https://github.com/Swinject/Swinject)
+👉 Dependency injection framework for Swift with iOS/macOS/Linux
+
+- [SwiftKVC](https://github.com/bradhilton/SwiftKVC)
+👉 Key-Value Coding (KVC) for native Swift classes and structs
+
+- [SwiftRichString](https://github.com/malcommac/SwiftRichString)
+👉 Elegant & Painless Attributed Strings Management Library in Swift
+
+- [BonMot](https://github.com/Raizlabs/BonMot)
+👉 Beautiful, easy attributed strings in Swift
+
+- [Attributed](https://github.com/Nirma/Attributed)
+👉 µframework for Attributed strings.
+
+- [StyledString](https://github.com/Q42/StyledString)
+👉 Easy Attributed Strings in Swift
+
+- [Delegated](https://github.com/dreymonde/Delegated)
+👉 Closure-based delegation without memory leaks
+
+- [muuri](https://github.com/haltu/muuri)
+👉 Responsive, sortable, filterable and draggable grid layouts
+
+- [Seam](https://github.com/nofelmahmood/Seam)
+👉 Seamless CloudKit Sync with CoreData
+
+- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation)
+👉 A collection of iOS animation repos
+
+- [DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage)
+👉 Generate waveform images from audio files in iOS
+
+- [Jukebox](https://github.com/teodorpatras/Jukebox)
+👉 Player for streaming local and remote audio files. Written in Swift.
+
+- [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift)
+👉 AudioPlayer is a simple class for playing audio in iOS, macOS and tvOS apps.
+
+- [AudioPlayer](https://github.com/delannoyk/AudioPlayer)
+👉 AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
+
+- [YPImagePicker](https://github.com/Yummypets/YPImagePicker)
+👉 Instagram-like image picker & filters for iOS
+
+- [TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)
+👉 A Custom&Powerful Action Sheet For iOS
+
+- [KPActionSheet](https://github.com/khuong291/KPActionSheet)
+👉 A replacement of default action sheet, but has very simple usage
+
+- [AHKActionSheet](https://github.com/fastred/AHKActionSheet)
+👉 An alternative to the UIActionSheet inspired by the Spotify app.
+
+- [HalfModalPresentationController](https://github.com/martinnormark/HalfModalPresentationController)
+👉 Modal presentation that takes up half the screen. Swipe down to dismiss.
+
+- [Mandoline](https://github.com/blueapron/Mandoline)
+👉 An iOS picker view to serve all your "picking" needs
+
+- [FDWaveformView](https://github.com/fulldecent/FDWaveformView)
+👉 Reads an audio file and displays the waveform
+
+- [PromiseKit](https://github.com/mxcl/PromiseKit)
+👉 Promises for Swift & ObjC
+
+- [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+👉 A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, springs, chain-able animations and mixing view and layer animations together!
+
+- [SVGPath](https://github.com/timrwood/SVGPath)
+👉 Parse SVG path strings into UIBezierPaths in Swift
+
+- [CollectionKit](https://github.com/SoySauceLab/CollectionKit)
+👉 Reimagining UICollectionView
+
+- [Music-Player](https://github.com/bpolat/Music-Player)
+👉 Fully functional music player which is written in swift programming language
+
+- [ios_calendar](https://github.com/maximbilan/ios_calendar)
+👉 iOS calendar component
+
+- [LNPopupController](https://github.com/LeoNatan/LNPopupController)
+👉 LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+
+- [ActionKit](https://github.com/ActionKit/ActionKit)
+👉 Easy, closure-based Swift methods for working with interactive UIKit elements.
+
+- [carbon](https://github.com/dawnlabs/carbon)
+👉 Create and share beautiful images of your source code
+
+- [ContextMenu](https://github.com/GitHawkApp/ContextMenu)
+👉 An iOS context menu UI inspired by Things 3.
+
+- [CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)
+👉 UICollectionViewLayout to display slanted content
+
+- [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)
+👉 How Swift standard types and classes were supposed to work.
+
+- [alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers)
+👉 Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...
+
+- [AppFolder](https://github.com/dreymonde/AppFolder)
+👉 Never use NSSearchPathForDirectoriesInDomains again. Never.
+
+- [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet)
+👉 Sheeeeeeeeet is a Swift library for custom action sheets.
+
+- [Tutti](https://github.com/danielsaidi/Tutti)
+👉 Tutti is a Swift library for creating iOS app tutorials and onboarding experiences.
+
+- [Placeholders](https://github.com/dreymonde/Placeholders)
+👉 Define multiple placeholders for UITextField and animate their change
+
+- [PeekPop](https://github.com/marmelroy/PeekPop)
+👉 Peek and Pop with backwards-compatibility
+
+- [PeekView](https://github.com/itsmeichigo/PeekView)
+👉 PeekView supports peek, pop and preview actions for iOS devices without 3D Touch capibility
+
+- [LGAlertView](https://github.com/Friend-LGA/LGAlertView)
+👉 Customizable implementation of UIAlertViewController, UIAlertView and UIActionSheet. All in one. You can customize every detail. Make AlertView of your dream! :)
+
+- [RevealMenuController](https://github.com/anatoliyv/RevealMenuController)
+👉 Menu controller with expandable item groups, custom position and appearance animation written with Swift. Similar to ActionSheet style of UIAlertController.
+
+- [TrustKit](https://github.com/datatheorem/TrustKit)
+👉 Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
+
+- [Closures](https://github.com/vhesener/Closures)
+👉 Swifty closures for UIKit and Foundation
+
+- [Parchment](https://github.com/rechsteiner/Parchment)
+👉 A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources
+
+- [MessageViewController](https://github.com/GitHawkApp/MessageViewController)
+👉 A SlackTextViewController replacement written in Swift for the iPhone X.
+
+- [SoundWave](https://github.com/bastienFalcou/SoundWave)
+👉 Illustrate your sound waves on the fly
+
+- [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground)
+👉 Swift Framework to Play a Video in the Background of any UIView
+
+- [SimplePDF](https://github.com/nRewik/SimplePDF)
+👉 Create a simple PDF effortlessly.
+
+- [PDFGenerator](https://github.com/sgr-ksmt/PDFGenerator)
+👉 A simple generator of PDF written in Swift.
+
+- [SwiftTips](https://github.com/JohnSundell/SwiftTips)
+👉 A collection of Swift tips & tricks that I've shared on Twitter
+
+- [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider)
+👉 GravitySlider is a beautiful alternative to the standard UICollectionView flow layout.
+
+- [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS)
+👉 iOS custom view to display books on shelf
+
+- [BubbleTransition](https://github.com/andreamazz/BubbleTransition)
+👉 A custom modal transition that presents and dismiss a controller with an expanding bubble effect.
+
+- [ElasticTransition](https://github.com/lkzhao/ElasticTransition)
+👉 A UIKit custom transition that simulates an elastic drag. Written in Swift.
+
+- [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch)
+👉 Nicely animated flat design switch alternative to UISwitch
+
+- [Switch](https://github.com/T-Pham/Switch)
+👉 An iOS switch control implemented in Swift with full Interface Builder support.
+
+- [DeckTransition](https://github.com/HarshilShah/DeckTransition)
+👉 A library to recreate the iOS Apple Music now playing transition
+
+- [FlagKit](https://github.com/madebybowtie/FlagKit)
+👉 Beautiful flag icons for usage in apps and on the web.
+
+- [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
+👉 The next in the generations of 'growing textviews' optimized for iOS 8 and above.
+
+- [Typist](https://github.com/totocaster/Typist)
+👉 Swift UIKit keyboard manager for iOS apps.
+
+- [AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView)
+👉 Awesome tool for create tutorial walkthrough or coach tour
+
+- [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
+👉 A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros. 
+
+
 ---
 
 ## Server-Side Swift
@@ -431,6 +669,16 @@ Most of them can be used for Vapor framework.
 
 - [sendgrid-provider](https://github.com/vapor-community/sendgrid-provider)
 👉 SendGrid-powered mail backend for Vapor
+
+- [Meow](https://github.com/OpenKitten/Meow)
+👉 MongoDB object persistence for Swift
+
+- [MeowVapor](https://github.com/OpenKitten/MeowVapor)
+👉 Meow plugin for API generation
+
+- [MongoKitten](https://github.com/OpenKitten/MongoKitten)
+👉 Native MongoDB driver for Swift, written in Swift
+
 
 ---
 
@@ -499,5 +747,9 @@ Most of them can be used for Vapor framework.
 - [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 👉 Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+👉 A book series on JavaScript. @YDKJS on twitter.
 
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+👉 GraphQL code generator with flexible support for custom templates
 
