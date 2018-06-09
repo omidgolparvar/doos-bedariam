@@ -642,6 +642,63 @@ My Favorite Github Repositories
 - [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 👉 A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros. 
 
+- [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
+👉 Showcase your awesome new app features
+
+- [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover)
+👉 A more convenient way to display a popover with a built-in picker, on iPhone/iPad of iOS9+.
+
+- [iPhoneOSDeviceSupport](https://github.com/filsv/iPhoneOSDeviceSupport)
+👉 Xcode iPhoneOS DeviceSupport
+
+- [LoginCritter](https://github.com/cgoldsby/LoginCritter)
+👉 An animated avatar that responds to text field interactions
+
+- [SwiftIconFont](https://github.com/0x73/SwiftIconFont)
+👉 Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon)
+
+- [CardParts](https://github.com/intuit/CardParts)
+👉 A reactive, card-based UI framework built on UIKit for iOS developers.
+
+- [ClassicKit](https://github.com/Baddaboo/ClassicKit)
+👉 A collection of classic-style UI components for iOS
+
+- [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit)
+👉 SwiftEntryKit is a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps.
+
+- [DynamicColor](https://github.com/yannickl/DynamicColor)
+👉 Yet another extension to manipulate colors easily in Swift
+
+- [PinterestLayout](https://github.com/MagicLab-team/PinterestLayout)
+👉 Custom collection view layout inspired by Pinterest layout. Written in Swift.
+
+- [Parade](https://github.com/HelloElephant/Parade)
+👉 Parallax Scroll-Jacking Effects Engine for iOS / tvOS
+
+- [Papr](https://github.com/jdisho/Papr)
+👉 An Unsplash app for iOS.
+
+- [panelkit](https://github.com/louisdh/panelkit)
+👉 A UI framework that enables panels on iOS.
+
+- [Minamo](https://github.com/yukiasai/Minamo)
+👉 Simple coach mark library written in Swift
+
+- [SwiftyGuideOverlay](https://github.com/saeid/SwiftyGuideOverlay)
+👉 Show overlay and info on app components
+
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
+👉 Convenient logging during development & release in Swift 2, 3 & 4
+
+- [Log](https://github.com/delba/Log)
+👉 An extensible logging framework for Swift
+
+- [logkit](https://github.com/logkit/logkit)
+👉 An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
+
+- [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding)
+👉 A simple and attractive AlertView to onboard your users in your amazing world.
+
 
 ---
 
@@ -679,6 +736,31 @@ Most of them can be used for Vapor framework.
 - [MongoKitten](https://github.com/OpenKitten/MongoKitten)
 👉 Native MongoDB driver for Swift, written in Swift
 
+
+---
+
+## React Native
+
+- [tipsi-ui-kit](https://github.com/tipsi/tipsi-ui-kit)
+👉 React Native Tipsi custom UI elements
+
+- [react-native-ui-lib](https://github.com/wix/react-native-ui-lib)
+👉 UI Components Library for React Native
+
+- [react-native-ios-kit](https://github.com/callstack/react-native-ios-kit)
+👉 The missing React Native UI Kit for iOS
+
+- [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
+👉 Creating a Swift-ReactNative project
+
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+👉 Awesome React Native components, news, tools, and learning material!
+
+- [react-native-elements](https://github.com/react-native-training/react-native-elements)
+👉 Cross Platform React Native UI Toolkit.
+
+- [reactotron](https://github.com/infinitered/reactotron)
+👉 A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 
 ---
 
@@ -753,3 +835,8 @@ Most of them can be used for Vapor framework.
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
 👉 GraphQL code generator with flexible support for custom templates
 
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+👉 A collection of (mostly) technical things every software developer should know
+
+- [es6features](https://github.com/lukehoban/es6features)
+👉 Overview of ECMAScript 6 features
