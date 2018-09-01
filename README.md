@@ -699,6 +699,90 @@ My Favorite Github Repositories
 - [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding)
 👉 A simple and attractive AlertView to onboard your users in your amazing world.
 
+- [SwipeTransition](https://github.com/tattn/SwipeTransition)
+👉 Allows trendy transitions using swipe gesture such as "swipe back anywhere".
+
+- [3D-Touch](https://github.com/versluis/3D-Touch)
+👉 iOS 9 Demo showing how to use 3D Touch on compatible devices
+
+- [MessengerKit](https://github.com/steve228uk/MessengerKit)
+👉 A UI framework for building messenger interfaces on iOS
+
+- [sift-ios](https://github.com/agrinman/sift-ios)
+👉 Uncover network traffic in real-time for every app on your phone
+
+- [FlexTabBar](https://github.com/wonderkiln/FlexTabBar)
+👉 Flexible Tab Bar library for IOS
+
+- [SwipeKit](https://github.com/wonderkiln/SwipeKit)
+👉 A simple kit for building swipe based interactions, even those with cards. 
+
+- [SnackView](https://github.com/lucacasula91/SnackView)
+👉 Customizable bottom-half alerts.
+
+- [Toaster](https://github.com/devxoul/Toaster)
+👉 Toast for Swift
+
+- [Schedule](https://github.com/jianstm/Schedule)
+👉 Lightweight timed task scheduler for Swift.
+
+- [RequestPermission](https://github.com/IvanVorobei/RequestPermission)
+👉 simple permission request with beautiful UI
+
+- [Permission](https://github.com/delba/Permission)
+👉 A unified API to ask for permissions on iOS
+
+- [sharkorm](https://github.com/sharksync/sharkorm)
+👉 Shark ORM for iOS/macOS/tvOS/watchOS
+
+- [SQLite.swift](https://github.com/stephencelis/SQLite.swift)
+👉 A type-safe, Swift-language layer over SQLite3.
+
+- [GRDB.swift](https://github.com/groue/GRDB.swift)
+👉 A toolkit for SQLite databases, with a focus on application development
+
+- [SQLiteDB](https://github.com/FahimF/SQLiteDB)
+👉 Basic SQLite wrapper for Swift 4.x and lightweight ORM for accessing underlying tables in an SQLite database
+
+- [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils)
+👉 All the reusable code that we need in each project
+
+- [Squeal](https://github.com/nerdyc/Squeal)
+👉 A Swift wrapper for SQLite databases
+
+- [Splash](https://github.com/JohnSundell/Splash)
+👉 A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
+
+- [HorizontalFloatingHeaderLayout](https://github.com/cruzdiego/HorizontalFloatingHeaderLayout)
+👉 Floating headers with horizontal scrolling layout for UICollectionView, inspired by iOS native Emoji Keyboard layout
+
+- [Kommander-iOS](https://github.com/intelygenz/Kommander-iOS)
+👉 A lightweight, pure-Swift library for manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.
+
+- [Bartinter](https://github.com/MaximKotliar/Bartinter)
+👉 Dynamically changes status bar style depending on content behind it
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
 
 ---
 
@@ -736,10 +820,25 @@ Most of them can be used for Vapor framework.
 - [MongoKitten](https://github.com/OpenKitten/MongoKitten)
 👉 Native MongoDB driver for Swift, written in Swift
 
+- [handsomeIOS](https://github.com/mohammadZ74/handsomeIOS)
+👉 List of best iOS Articles,Videos,Blogs in my iOS Journey
+
+- [iReSign](https://github.com/maciekish/iReSign)
+👉 iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.
+
+- [SwiftEngine](https://github.com/swiftengine/SwiftEngine)
+👉 Apple Swift based HTTP server. The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server. 
+
+- []()
+👉 
+
+- []()
+👉 
+
 
 ---
 
-## React Native
+## React / React Native
 
 - [tipsi-ui-kit](https://github.com/tipsi/tipsi-ui-kit)
 👉 React Native Tipsi custom UI elements
@@ -761,6 +860,79 @@ Most of them can be used for Vapor framework.
 
 - [reactotron](https://github.com/infinitered/reactotron)
 👉 A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+
+- [react-starter](https://github.com/drminnaar/react-starter)
+👉 A basic template that consists of the essential elements that are required to start building a React (v16.3) application using Webpack (v4)
+
+
+- [react-starter-project](https://github.com/rauschma/react-starter-project)
+👉 Minimal starter project for React: webpack + hot module reloading + ES6 and JSX via Babel
+
+
+- [evergreen](https://github.com/segmentio/evergreen)
+👉 Evergreen React UI Framework by Segment
+
+
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)
+👉 Roadmap to becoming a React developer in 2018
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
+- []()
+👉 
+
+
 
 ---
 
@@ -840,3 +1012,61 @@ Most of them can be used for Vapor framework.
 
 - [es6features](https://github.com/lukehoban/es6features)
 👉 Overview of ECMAScript 6 features
+
+- [Mikhak](https://github.com/aminabedi68/Mikhak)
+👉 simple monoline Arabic-Latin semi handwriting typeface
+
+- [graphql-playground](https://github.com/prisma/graphql-playground)
+👉 GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
+
+- [nocode](https://github.com/kelseyhightower/nocode)
+👉 The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+- [prisma](https://github.com/prisma/prisma)
+👉 Prisma turns your database into a realtime GraphQL API
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
