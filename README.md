@@ -762,23 +762,206 @@ My Favorite Github Repositories
 - [Bartinter](https://github.com/MaximKotliar/Bartinter)
 👉 Dynamically changes status bar style depending on content behind it
 
-- []()
-👉 
+- [QuickLayout](https://github.com/huri000/QuickLayout)
+👉 Written in pure Swift, QuickLayout offers a simple and easy way to manage Auto Layout in code.
 
-- []()
-👉 
+- [SAParallaxViewControllerSwift](https://github.com/marty-suzuki/SAParallaxViewControllerSwift)
+👉 SAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.
 
-- []()
-👉 
+- [ParallaxView](https://github.com/PGSSoft/ParallaxView)
+👉 tvOS controls and extensions that add parallax effect to your application.
 
-- []()
-👉 
+- [iOS-Framework](https://github.com/jverkoey/iOS-Framework)
+👉 How to create, develop, and distribute iOS Static Frameworks quickly and efficiently
 
-- []()
-👉 
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+👉 A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 
-- []()
-👉 
+- [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
+👉 A curated list of awesome iOS UI/UX libraries
+
+- [freshOS](https://github.com/freshOS)
+👉 iOS Toolset
+
+- [SCrypto](https://github.com/sgl0v/SCrypto)
+👉 Elegant Swift interface to access the CommonCrypto routines
+
+- [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl)
+👉 An easy to use, customizable replacement for UISegmentedControl & UISwitch.
+
+- [MSCircularSlider](https://github.com/ThunderStruct/MSCircularSlider)
+👉 A fully-featured, powerful circular slider for iOS applications
+
+- [CardStackController](https://github.com/jobandtalent/CardStackController)
+👉 iOS custom controller used in Jobandtalent app to present new view controllers as cards
+
+- [Ambience](https://github.com/tmergulhao/Ambience)
+👉 An ambient light accessibility framework for iOS.
+
+- [LNZCollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts)
+👉 A collection of CollectionViewLayout.
+
+- [HapticButton](https://github.com/BalestraPatrick/HapticButton)
+👉 A button that is triggered based on the 3D Touch pressure, similar to the iOS 11 control center.
+
+- [AZDialogViewController](https://github.com/Minitour/AZDialogViewController)
+👉 A highly customizable alert dialog controller that mimics Snapchat's alert dialog.
+
+- [GhostTypewriter](https://github.com/wibosco/GhostTypewriter)
+👉 👻  A UILabel subclass that adds a type writing animation effect
+
+- [SwiftIcons](https://github.com/ranesr/SwiftIcons)
+👉 🎢Swift Library for Font Icons - ★ this library
+
+- [Sharecuts](https://github.com/insidegui/Sharecuts)
+👉 A public repository of shortcuts for the Shortcuts app
+
+- [Chameleon](https://github.com/viccalexander/Chameleon)
+👉 Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
+
+- [appstore-clone](https://github.com/phillfarrugia/appstore-clone)
+👉 An experimental clone of the new iOS 11 App Store app
+
+- [AnyFormatKit](https://github.com/luximetr/AnyFormatKit)
+👉 Simple text formatting in Swift
+
+- [cardslider](https://github.com/Ramotion/cardslider)
+👉 :octocat: 🃏 Cardslider is a design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
+
+- [FlatCache](https://github.com/GitHawkApp/FlatCache)
+👉 Implementation of Soroush Khanlou's Flat Cache.
+
+- [Pixel](https://github.com/muukii/Pixel)
+👉 🎨🖼 An image editor and engine using CoreImage
+
+- [fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)
+👉 :japanese_castle: Better ways to structure iOS apps
+
+- [SVPinView](https://github.com/xornorik/SVPinView)
+👉 SVPinView is a light-weight customisable library used for accepting pin numbers or one-time passwords.
+
+- [pickle](https://github.com/carousell/pickle)
+👉 Carousell flavoured image picker with multiple photo selections.
+
+- [FloatingPanel](https://github.com/SCENEE/FloatingPanel)
+👉 A clean and easy-to-use floating panel UI component for iOS
+
+- [YPImagePicker](https://github.com/Yummypets/YPImagePicker)
+👉 📸 Instagram-like image picker & filters for iOS
+
+- [MessageViewController](https://github.com/GitHawkApp/MessageViewController)
+👉 A SlackTextViewController replacement written in Swift for the iPhone X.
+
+- [image-picker](https://github.com/inloop/image-picker)
+👉 An easy to use, highly configurable image picker for your chat application.
+
+- [Motion](https://github.com/CosmicMind/Motion)
+👉 A library used to create beautiful animations and transitions for Apple devices.
+
+- [Squawk](https://github.com/GitHawkApp/Squawk)
+👉 Quick & interactive iOS alerts in Swift.
+
+- [Material](https://github.com/CosmicMind/Material)
+👉 A UI/UX framework for creating beautiful applications.
+
+- [Sheet](https://github.com/ParkGwangBeom/Sheet)
+👉 📑 Actionsheet with navigation features such as the Flipboard App
+
+- [Gradients](https://github.com/cruisediary/Gradients)
+👉 🌔 A curated collection of splendid 180+ gradients made in swift
+
+- [Sizes](https://github.com/marcosgriselli/Sizes)
+👉 View your app on different device and font sizes 
+
+- [CalendarKit](https://github.com/richardtop/CalendarKit)
+👉 📅 Fully customizable calendar for iOS
+
+- [Neon](https://github.com/mamaral/Neon)
+👉 A powerful Swift programmatic UI layout framework.
+
+- [DateTools](https://github.com/MatthewYork/DateTools)
+👉 Dates and times made easy in iOS
+
+- [AHDownloadButton](https://github.com/amerhukic/AHDownloadButton)
+👉 Customizable download button with progress and transition animations. It is based on Apple's App Store download button.
+
+- [Pulley](https://github.com/52inc/Pulley)
+👉 A library to imitate the iOS 10 Maps UI.
+
+- [Quick](https://github.com/Quick/Quick)
+👉 The Swift (and Objective-C) testing framework.
+
+- [JKBottomSearchView](https://github.com/JaroVoltix/JKBottomSearchView)
+👉 Search View similar to Apple maps solution
+
+- [Nimble](https://github.com/Quick/Nimble)
+👉 A Matcher Framework for Swift and Objective-C
+
+- [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController)
+👉 A view controller that uses root views of child view controllers as views in a UIStackView.
+
+- [SnapKit](https://github.com/SnapKit/SnapKit)
+👉 A Swift Autolayout DSL for iOS & OS X
+
+- [TinyConstraints](https://github.com/roberthein/TinyConstraints)
+👉 Nothing but sugar.
+
+- [PureLayout](https://github.com/PureLayout/PureLayout)
+👉 The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
+
+- [Masonry](https://github.com/SnapKit/Masonry)
+👉 Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
+
+- [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars)
+👉 AIB indicates for your app users which audio is playing. Just like the Podcasts app.
+
+- [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition)
+👉 SamuraiTransition is an open source Swift based library providing a collection of ViewController transitions featuring a number of neat “cutting” animations.
+
+- [CircularSlider](https://github.com/taglia3/CircularSlider)
+👉 A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable.
+
+- [FBAnnotationClusteringSwift](https://github.com/ribl/FBAnnotationClusteringSwift)
+👉 Swift translation of FB Annotation Clustering, which clusters pins on the map for iOS.
+
+- [MTCircularSlider](https://github.com/EranBoudjnah/MTCircularSlider)
+👉 A feature-rich circular slider control written in Swift.
+
+- [AloeStackView](https://github.com/airbnb/AloeStackView)
+👉 A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.
+
+- [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView)
+👉 A Splash view that animates and reveals its content, inspired by Twitter splash
+
+- [ImagePickerKit](https://github.com/Athlee/ImagePickerKit)
+👉 ImagePickerKit is a protocol-oriented framework that provides handly features to dealing with picking or taking a photo!
+
+- [MisterFusion](https://github.com/marty-suzuki/MisterFusion)
+👉 MisterFusion is Swift DSL for AutoLayout. It is the extremely clear, but concise syntax, in addition, can be used in both Swift and Objective-C. Support Safe Area and Size Class.
+
+- [OnboardingKit](https://github.com/Athlee/OnboardingKit)
+👉 A simple and interactive framework for making iOS onboarding experience easy and fun!  
+
+- [TwitterLaunchAnimation](https://github.com/IvanVorobei/TwitterLaunchAnimation)
+👉 The library with Twitter-like launch animation
+
+- [YXWaveView](https://github.com/yourtion/YXWaveView)
+👉 A water wave animation view （类似百度外卖的头像波浪效果）
+
+- [LiveCollections](https://github.com/scribd/LiveCollections)
+👉 Automatically perform UITableView and UICollectionView animations between two sets of immutable data. It supports generic data types and is fully thread-safe.
+
+- [Arrows](https://github.com/antoniocasero/Arrows)
+👉 Arrows is an animated custom view to give feedback about your UI sliding panels.
+
+- [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)
+👉 Cute Animated Button written in Swift.
+
+- [Zephyr](https://github.com/ArtSabintsev/Zephyr)
+👉 Effortlessly synchronize UserDefaults over iCloud.
+
+- [Panels](https://github.com/antoniocasero/Panels)
+👉 Panels is a framework to easily add sliding panels to your application
 
 - []()
 👉 
@@ -829,8 +1012,8 @@ Most of them can be used for Vapor framework.
 - [SwiftEngine](https://github.com/swiftengine/SwiftEngine)
 👉 Apple Swift based HTTP server. The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server. 
 
-- []()
-👉 
+- [TheList](https://github.com/Awesome-Server-Side-Swift/TheList)
+👉 A list of Awesome Server Side Swift 3 projects
 
 - []()
 👉 
@@ -877,8 +1060,8 @@ Most of them can be used for Vapor framework.
 👉 Roadmap to becoming a React developer in 2018
 
 
-- []()
-👉 
+- [react-loadable](https://github.com/jamiebuilds/react-loadable)
+👉 A higher order component for loading components with promises.
 
 
 - []()
@@ -960,6 +1143,27 @@ Most of them can be used for Vapor framework.
 
 - [node-oauth2-server](https://github.com/oauthjs/node-oauth2-server)
 👉 Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
+
+- [caniuse-api](https://github.com/Nyalab/caniuse-api)
+👉 request the caniuse data to check browsers compatibilities
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
+
+- []()
+👉 
 
 ---
 
