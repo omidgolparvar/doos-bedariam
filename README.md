@@ -963,6 +963,67 @@ My Favorite Github Repositories
 - [Panels](https://github.com/antoniocasero/Panels)
 👉 Panels is a framework to easily add sliding panels to your application
 
+- [MotionBook](https://github.com/younatics/MotionBook)
+👉 📖 Awesome iOS UI/UX Application (Open Source)
+
+- [VersaPlayer](https://github.com/josejuanqm/VersaPlayer)
+👉 Versatile Video Player implementation for iOS
+
+- [Windless](https://github.com/Interactive-Studio/Windless)
+👉 Windless makes it easy to implement invisible layout loading view.
+
+- [Skeleton](https://github.com/gonzalonunez/Skeleton)
+👉 💀 An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content.
+
+- [SkeletonView](https://github.com/Juanpe/SkeletonView)
+👉 An elegant way to show users that something is happening and also prepare them to which contents he is waiting
+
+- [BonMot](https://github.com/Raizlabs/BonMot)
+👉 Beautiful, easy attributed strings in Swift
+
+- [UIGradient](https://github.com/dqhieu/UIGradient)
+👉 A simple and powerful library for using gradient layer, image, color
+
+- [SHSearchBar](https://github.com/Blackjacx/SHSearchBar)
+👉 The search bar that doesn't suck.
+
+- [iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+👉 Roadmap to becoming an iOS developer in 2018.
+
+- [WSTagsField](https://github.com/whitesmith/WSTagsField)
+👉 An iOS text field that represents different Tags
+
+- [tuist](https://github.com/tuist/tuist)
+👉 🚀 Create, maintain, and interact with Xcode projects at scale
+
+- [StatusProvider](https://github.com/mariohahn/StatusProvider)
+👉 Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views
+
+- [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)
+👉 ViewAnimator brings your UI to life with just one line
+
+- [StepProgressView](https://github.com/yonat/StepProgressView)
+👉 Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
+
+- [Anima](https://github.com/satoshin21/Anima)
+👉 Anima is chainable Layer-Based Animation library for Swift4.
+
+- [LoadingPlaceholderView](https://github.com/MarioIannotta/LoadingPlaceholderView)
+👉 Non-blocking animated gradient placeholder view for your async tasks.
+
+- [FittedSheets](https://github.com/gordontucker/FittedSheets)
+👉 Bottom sheets for iOS
+
+- [EasyTipView](https://github.com/teodorpatras/EasyTipView)
+👉 Fully customisable tooltip view in Swift for iOS.
+
+- [StatusAlert](https://github.com/LowKostKustomz/StatusAlert)
+👉 Display Apple system-like self-hiding status alerts. It is well suited for notifying user without interrupting user flow in iOS-like way.
+
+- [ActionsList](https://github.com/LowKostKustomz/ActionsList)
+👉 ActionsList is an iOS framework for presenting actions lists similar to Apple's Quick Actions menu. It is the best replacement for the Android's floating action button in iOS if your app is following the iOS Design Guidelines.
+
+
 - []()
 👉 
 
@@ -1229,11 +1290,11 @@ Most of them can be used for Vapor framework.
 - [prisma](https://github.com/prisma/prisma)
 👉 Prisma turns your database into a realtime GraphQL API
 
-- []()
-👉 
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode)
+👉 A curated list of delightful VS Code packages and resources.
 
-- []()
-👉 
+- [eva-icons](https://github.com/akveo/eva-icons)
+👉 A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 
 - []()
 👉 
