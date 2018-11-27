@@ -1026,6 +1026,21 @@ My Favorite Github Repositories
 - [KVOController](https://github.com/facebook/KVOController)
 👉 Simple, modern, thread-safe key-value observing for iOS and OS X.
 
+- [GradientSlider](https://github.com/jonhull/GradientSlider)
+👉 
+
+- [RPCircularProgress](https://github.com/iwasrobbed/RPCircularProgress)
+👉 (Swift) Circular progress UIView subclass with UIProgressView properties
+
+- [Haptico](https://github.com/iSapozhnik/Haptico)
+👉 Haptico 📳 - easy to use haptic feedback generator with pattern-play support
+
+- [fan-menu](https://github.com/exyte/fan-menu)
+👉 Menu with a circular layout based on Macaw
+
+- [GDGauge](https://github.com/saeid/GDGauge)
+👉 Full Customizable, Beautiful, Easy to use gauge view
+
 - []()
 👉 
 
@@ -1298,17 +1313,14 @@ Most of them can be used for Vapor framework.
 - [eva-icons](https://github.com/akveo/eva-icons)
 👉 A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 
-- []()
-👉 
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+👉 A book series on JavaScript. @YDKJS on twitter.
 
-- []()
-👉 
+- [jsfuck](https://github.com/aemkei/jsfuck)
+👉 Write any JavaScript with 6 Characters: []()!+
 
-- []()
-👉 
-
-- []()
-👉 
+- [wtfjs](https://github.com/denysdovhan/wtfjs)
+👉 A list of funny and tricky JavaScript examples
 
 - []()
 👉 
