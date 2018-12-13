@@ -1041,6 +1041,75 @@ My Favorite Github Repositories
 - [GDGauge](https://github.com/saeid/GDGauge)
 👉 Full Customizable, Beautiful, Easy to use gauge view
 
+- [flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)
+👉 One another nice animated tabbar
+
+- [HDNotificationView](https://github.com/nhdang103/HDNotificationView)
+👉 Emulates the native Remote Notification View.
+
+- [zarinpal-ios-payment](https://github.com/ImanX/zarinpal-ios-payment)
+👉 Zarinpal iOS SDK Payment 
+
+- [OrderedSet](https://github.com/Weebly/OrderedSet)
+👉 A Swift collection of unique, ordered objects
+
+- [EZYGradientView](https://github.com/shashankpali/EZYGradientView)
+👉 Create gradients and blur gradients without a single line of code
+
+- [appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk)
+👉 The Swift SDK to work with the App Store Connect API from Apple.
+
+- [VersaPlayer](https://github.com/josejuanqm/VersaPlayer)
+👉 Versatile Video Player implementation for iOS, macOS, and tvOS
+
+- [SiriusObfuscator](https://github.com/Polidea/SiriusObfuscator)
+👉 
+
+- [FloatingPanel](https://github.com/SCENEE/FloatingPanel)
+👉 A clean and easy-to-use floating panel UI component for iOS
+
+- [HGRippleRadarView](https://github.com/HamzaGhazouani/HGRippleRadarView)
+👉 A beautiful radar view to show nearby items (users, restaurants, ...) with ripple animation, fully customizable 
+
+- [RichTextView](https://github.com/tophat/RichTextView)
+👉 iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links
+
+- [SPStorkController](https://github.com/IvanVorobei/SPStorkController)
+👉 Modal controller as in mail or Apple music application
+
+- [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger)
+👉 A cells of UITableView can be rearranged by drag and drop.
+
+- [KUIPopOver](https://github.com/Kofktu/KUIPopOver)
+👉 Easy to use PopOver in iOS
+
+- [JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController)
+👉 A fancy collection style view controller
+
+- [ShadowView](https://github.com/PierrePerrin/ShadowView)
+👉 An iOS Library that makes shadows management easy on UIView.
+
+- [CardCollectionView](https://github.com/popwarsweet/CardCollectionView)
+👉 A blank template for a paged collection view of cards. It contains an animated transition for transitioning each card to a full screen.
+
+- [StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift)
+👉 UICollectionView layout for presenting of the overlapping cells.
+
+- [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection)
+👉 An animation switch collection
+
+- [JMMaskTextField-Swift](https://github.com/JotaMelo/JMMaskTextField-Swift)
+👉 UITextField masking made easy
+
+- [ActivityRings](https://github.com/HarshilShah/ActivityRings)
+👉 An attempt to recreate the ring controls in Apple’s Activity app
+
+- [PopOverAlert](https://github.com/tichise/PopOverAlert)
+👉 PopOverAlert is a PopOver style alert view.
+
+- [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer)
+👉 iOS UI library to implement overlay based interfaces
+
 - []()
 👉 
 
@@ -1322,8 +1391,8 @@ Most of them can be used for Vapor framework.
 - [wtfjs](https://github.com/denysdovhan/wtfjs)
 👉 A list of funny and tricky JavaScript examples
 
-- []()
-👉 
+- [rete](https://github.com/retejs/rete)
+👉 JavaScript framework for visual programming and creating node editor
 
 - []()
 👉 
