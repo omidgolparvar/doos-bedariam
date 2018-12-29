@@ -1110,6 +1110,39 @@ My Favorite Github Repositories
 - [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer)
 👉 iOS UI library to implement overlay based interfaces
 
+- [AlamofireURLCache](https://github.com/kenshincui/AlamofireURLCache)
+👉 Alamofire network library URLCache-based cache extension
+
+- [FlexibleSteppedProgressBar](https://github.com/amratab/FlexibleSteppedProgressBar)
+👉 Flexible Stepped Progress Bar for IOS
+
+- [MagazineLayout](https://github.com/airbnb/MagazineLayout)
+👉 A collection view layout capable of laying out views in vertically scrolling grids and lists.
+
+- [Floaty](https://github.com/kciter/Floaty)
+👉 :heart: Floating Action Button for iOS
+
+- [VBPiledView](https://github.com/v-braun/VBPiledView)
+👉 Simple and beautiful stacked UIView to use as a replacement for an UITableView, UIImageView or as a menu
+
+- [NotificationView](https://github.com/pikachu987/NotificationView)
+👉 iOS Basic Notification screens 🤚
+
+- [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView)
+👉 Apple TV Parallax effect in Swift.
+
+- [shortcuts-swift](https://github.com/a2/shortcuts-swift)
+👉 Write Shortcuts in Playgrounds
+
+- [Connectivity](https://github.com/rwbutler/Connectivity)
+👉 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+
+- [smooth-scroll](https://github.com/Cuberto/smooth-scroll)
+👉 Smooth collection scrolling
+
+- [DottedLineView](https://github.com/STAR-ZERO/DottedLineView)
+👉 Draw horizontal or vertical dotted line for iOS
+
 - []()
 👉 
 
