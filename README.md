@@ -1143,6 +1143,12 @@ My Favorite Github Repositories
 - [DottedLineView](https://github.com/STAR-ZERO/DottedLineView)
 👉 Draw horizontal or vertical dotted line for iOS
 
+- [MenuItemKit](https://github.com/cxa/MenuItemKit)
+👉 UIMenuItem with image and closure(block) action
+
+- [FaceAware](https://github.com/BeauNouvelle/FaceAware)
+👉 An extension that gives UIImageView the ability to focus on faces within an image.
+
 - []()
 👉 
 
