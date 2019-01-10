@@ -1149,6 +1149,19 @@ My Favorite Github Repositories
 - [FaceAware](https://github.com/BeauNouvelle/FaceAware)
 👉 An extension that gives UIImageView the ability to focus on faces within an image.
 
+- [AirBar](https://github.com/uptechteam/AirBar)
+👉 iOS library - UIScrollView driven expandable menu. 
+
+- [swiftshield](https://github.com/rockbruno/swiftshield)
+👉 🔒Swift Obfuscator that protects iOS apps against reverse engineering attacks.
+
+- [SMSegmentView](https://github.com/sima-11/SMSegmentView)
+👉 Custom segmentedControl for iOS written in Swift. Supports vertical layout. Support both image and text. Highly customisable.
+
+- [SwiftValidators](https://github.com/gkaimakas/SwiftValidators)
+👉 String (and more) validation for iOS
+
+
 - []()
 👉 
 
