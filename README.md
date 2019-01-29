@@ -1161,6 +1161,34 @@ My Favorite Github Repositories
 - [SwiftValidators](https://github.com/gkaimakas/SwiftValidators)
 👉 String (and more) validation for iOS
 
+- [Aiolos](https://github.com/IdeasOnCanvas/Aiolos)
+👉 A floating panel for your iOS Apps
+
+- [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch)
+👉 Nicely animated flat design switch alternative to UISwitch
+
+- [Overlog](https://github.com/netguru/Overlog)
+👉 Overlay for iOS apps for easier testing and debugging. 👩‍🔧
+
+- [AIFlatSwitch](https://github.com/cocoatoucher/AIFlatSwitch)
+👉 Nicely animated flat design switch alternative to UISwitch
+
+- [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout)
+👉 An easy-to-use Collection View Layout for card-like animation.
+
+- [Aiolos](https://github.com/IdeasOnCanvas/Aiolos)
+👉 A floating panel for your iOS Apps
+
+- [BlueSwift](https://github.com/netguru/BlueSwift)
+👉 Swift framework for easy connection with Bluetooth peripherals.
+
+- [Bagel](https://github.com/yagiz/Bagel)
+👉 a little native network debugging tool for iOS
+
+- [roundrect](https://github.com/gabrieloc/roundrect)
+👉 Conveniences for programmatically generating image assets and styling UIButton
+
+
 
 - []()
 👉 
