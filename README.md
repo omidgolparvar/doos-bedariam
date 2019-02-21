@@ -1188,6 +1188,42 @@ My Favorite Github Repositories
 - [roundrect](https://github.com/gabrieloc/roundrect)
 👉 Conveniences for programmatically generating image assets and styling UIButton
 
+- [Translucid](https://github.com/Ekhoo/Translucid)
+👉 Lightweight library to set an Image as text background. Written in swift.
+
+- [VEditorKit](https://github.com/GeekTree0101/VEditorKit)
+👉 Lightweight and Powerful Editor Kit (Beta)
+
+- [Haptica](https://github.com/efremidze/Haptica)
+👉 Easy Haptic Feedback Generator 📳
+
+- [Dismissable](https://github.com/younatics/Dismissable)
+👉 ⚡️Dismissable is super convenient to dismiss with gesture!
+
+- [fave-button](https://github.com/xhamr/fave-button)
+👉 FaveButton is an iOS cute animated like button written in Swift.
+
+- [VisualEffectView](https://github.com/efremidze/VisualEffectView)
+👉 Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱
+
+- [MarkdownKit](https://github.com/bmoliveira/MarkdownKit)
+👉 A simple and customizable Markdown Parser for Swift
+
+- [CardPresentationController](https://github.com/radianttap/CardPresentationController)
+👉 Custom UIPresentationController which mimics the behavior of Apple Music UI
+
+- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
+👉 A beautiful and flexible text field control implementation of  "Float Label Pattern". Written in Swift.
+
+- [SPStorkController](https://github.com/IvanVorobei/SPStorkController)
+👉 Modal controller as in mail or Apple music application
+
+- [TweeTextField](https://github.com/oleghnidets/TweeTextField)
+👉 Lightweight set of text fields with nice animation and functionality. 🚀 Inspired by https://uimovement.com/ui/2524/input-field-help/
+
+- [VEditorKit](https://github.com/GeekTree0101/VEditorKit)
+👉 Lightweight and Powerful Editor Kit (Beta)
+
 
 
 - []()
