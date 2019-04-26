@@ -1224,10 +1224,106 @@ My Favorite Github Repositories
 - [VEditorKit](https://github.com/GeekTree0101/VEditorKit)
 👉 Lightweight and Powerful Editor Kit (Beta)
 
+- [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug)
+👉 🚀 iOS Debugging Tool
+
+- [SwiftOCR](https://github.com/garnele007/SwiftOCR)
+👉 Fast and simple OCR library written in Swift
+
+- [Blueprint](https://github.com/square/Blueprint)
+👉 Declarative UI construction for iOS, written in Swift
+
+- [camerakit-ios](https://github.com/CameraKit/camerakit-ios)
+👉 Library for iOS Camera API. Massively increase performance and ease of use within your next iOS Project.
+
+- [FSCalendar](https://github.com/WenchaoD/FSCalendar)
+👉 A fully customizable iOS calendar library, compatible with Objective-C and Swift
+
+- [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions)
+👉 A simple way to create custom interactive UIViewController transitions
+
+- [Transition](https://github.com/Touchwonders/Transition)
+👉 Easy interactive interruptible custom ViewController transitions
+
+- [Jelly](https://github.com/SebastianBoldt/Jelly)
+👉 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
+
+- [Menu](https://github.com/TwoLivesLeft/Menu)
+👉 The iOS Menu
+
+- [YUDisplacementTransition](https://github.com/YuAo/YUDisplacementTransition)
+👉 A GPU accelerated transition library makes use of displacement maps to create distortion effects.
+
+- [SideMenu](https://github.com/kukushi/SideMenu)
+👉 An interactive iOS side menu with rich features.
+
+- [ADOverlayContainer](https://github.com/applidium/ADOverlayContainer)
+👉 Non-intrusive iOS UI library to implement overlay based interfaces
+
+- [Pulley](https://github.com/52inc/Pulley)
+👉 A library to imitate the iOS 10 Maps UI.
+
+- [UBottomSheet](https://github.com/OfTheWolf/UBottomSheet)
+👉 iPhone Maps App bottom sheet (Swift 4)
+
+- [awesome-rxswift](https://github.com/LeoMobileDeveloper/awesome-rxswift)
+👉 An "awesome" type curated list of RxSwift library and learning material
+
+- [CardPresentationController](https://github.com/radianttap/CardPresentationController)
+👉 Custom UIPresentationController which mimics the behavior of Apple Music UI
+
+- [FloatingPanel](https://github.com/SCENEE/FloatingPanel)
+👉 A clean and easy-to-use floating panel UI component for iOS
+
+- [RxSwift-Education](https://github.com/dylanshine/RxSwift-Education)
+👉 RxSwift Education
+
+- [Rideau](https://github.com/muukii/Rideau)
+👉 🎪[Beta.3]  Rideau is a drawer UI similar to what Apple's apps use. (e.g Maps, Shortcuts)
+
+- [TypedTextAttributes](https://github.com/muukii/TypedTextAttributes)
+👉 🖍 The Library Creating Text Attributes with Type-Safety
+
+- [VPNOn](https://github.com/lexrus/VPNOn)
+👉 Turn On your VPN like a hero.
+
+- [DeviceLayout](https://github.com/cruisediary/DeviceLayout)
+👉 📱AutoLayout can be set differently for each device
+
+- [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit)
+👉 KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.
+
+- [PanModal](https://github.com/slackhq/PanModal)
+👉 An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
+
+- [TTSegmentedControl](https://github.com/tapptitude/TTSegmentedControl)
+👉 An elegant, animated and customizable segmented control for iOS created by Tapptitude
+
+- [When](https://github.com/vadymmarkov/When)
+👉 :alarm_clock: A lightweight implementation of Promises in Swift
+
+- [then](https://github.com/freshOS/then)
+👉 :clapper: Promises Library for Swift with Async/Await
+
+- [IceCream](https://github.com/caiyue1993/IceCream)
+👉 Sync Realm Database with CloudKit
+
+- [MachObfuscator](https://github.com/kam800/MachObfuscator)
+👉 MachObfuscator is a programming-language-agnostic Mach-O apps obfuscator for Apple platforms.
+
+- [TYProgressBar](https://github.com/yashthaker7/TYProgressBar)
+👉 Custom animating gradient progress bar
+
+- [Fat-Framework-Script-For-iOS](https://github.com/Husseinhj/Fat-Framework-Script-For-iOS)
+👉 Script for build iOS universal framework with Terminal or Jenkins or any tools......
+
+- [Swinflate](https://github.com/VladIacobIonut/Swinflate)
+👉 A bunch of layouts providing light and seamless experiences in your Collection View
+
+- [sensor-visualizer-kit](https://github.com/joeblau/sensor-visualizer-kit)
+👉 Visualize iOS sensors for live presentations, iOS AppStore demos, Apple Store prototypes, design reviews.
 
 
-- []()
-👉 
 
 
 ---
@@ -1278,9 +1374,23 @@ Most of them can be used for Vapor framework.
 - [TheList](https://github.com/Awesome-Server-Side-Swift/TheList)
 👉 A list of Awesome Server Side Swift 3 projects
 
-- []()
+- [VaporSecurity](https://github.com/OptionalValue/VaporSecurity)
+👉 A community curated list of application security resources for Vapor developers. 
+
+- [vapor-request-storage](https://github.com/skelpo/vapor-request-storage)
 👉 
 
+- [VaporSecurityHeaders](https://github.com/brokenhandsio/VaporSecurityHeaders)
+👉 Harden Your Security Headers For Vapor
+
+- [FluentQuery](https://github.com/MihaelIsaev/FluentQuery)
+👉 🗃 Powerful and easy to use Swift Query Builder for Vapor 3.
+
+- [awesome-vapor](https://github.com/Cellane/awesome-vapor)
+👉 A curated list of Vapor-related awesome projects.
+
+- [VaporSecurityHeaders](https://github.com/cak/VaporSecurityHeaders)
+👉 Harden Your Security Headers For Vapor
 
 ---
 
@@ -1326,60 +1436,6 @@ Most of them can be used for Vapor framework.
 - [react-loadable](https://github.com/jamiebuilds/react-loadable)
 👉 A higher order component for loading components with promises.
 
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-- []()
-👉 
-
-
-
 ---
 
 ## Client Side Web
@@ -1409,24 +1465,6 @@ Most of them can be used for Vapor framework.
 
 - [caniuse-api](https://github.com/Nyalab/caniuse-api)
 👉 request the caniuse data to check browsers compatibilities
-
-- []()
-👉 
-
-- []()
-👉 
-
-- []()
-👉 
-
-- []()
-👉 
-
-- []()
-👉 
-
-- []()
-👉 
 
 ---
 
@@ -1510,27 +1548,13 @@ Most of them can be used for Vapor framework.
 - [rete](https://github.com/retejs/rete)
 👉 JavaScript framework for visual programming and creating node editor
 
-- []()
-👉 
+- [made-in-iran](https://github.com/mohebifar/made-in-iran)
+👉 A list of cool projects made in Iran
 
-- []()
-👉 
+- [jquery.applink](https://github.com/eusonlito/jquery.applink)
+👉 Launch native apps from web page links for mobile and desktop devices
 
-- []()
-👉 
+- [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
+👉 A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 
-- []()
-👉 
-
-- []()
-👉 
-
-- []()
-👉 
-
-- []()
-👉 
-
-- []()
-👉 
 
