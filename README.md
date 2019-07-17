@@ -1323,6 +1323,264 @@ My Favorite Github Repositories
 - [sensor-visualizer-kit](https://github.com/joeblau/sensor-visualizer-kit)
 👉 Visualize iOS sensors for live presentations, iOS AppStore demos, Apple Store prototypes, design reviews.
 
+- [DrawerView](https://github.com/mkko/DrawerView)
+👉 A drop-in view, to be used as a drawer anywhere in your app
+
+- [SPAlert](https://github.com/ivanvorobei/SPAlert)
+👉 Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+
+- [SPLarkController](https://github.com/ivanvorobei/SPLarkController)
+👉 Custom transition between controllers. Settings controller for your iOS app.
+
+- [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt)
+👉 A collection of Rx operators & tools not found in the core RxSwift distribution
+
+- [SPPermission](https://github.com/ivanvorobei/SPPermission)
+👉 A unified API to ask for permissions on iOS. Available dialog UI.
+
+- [iOS-Tactile-Slider](https://github.com/daprice/iOS-Tactile-Slider)
+👉 UIControl slider that can be dragged from any point within its bounds, similar to those in Control Center and Home.app
+
+- [UIImageViewAlignedSwift](https://github.com/sochalewski/UIImageViewAlignedSwift)
+👉 A UIImageView subclass which allows you to align the image left/right/top/bottom, even when contentMode is AspectFit. Swift now.
+
+- [NewsApp](https://github.com/PowerMobileWeb/NewsApp)
+👉 NewsApp
+
+- [Unwrap](https://github.com/twostraws/Unwrap)
+👉 Learn Swift interactively on your iPhone.
+
+- [VersaPlayer](https://github.com/josejuanqm/VersaPlayer)
+👉 Versatile Video Player implementation for iOS, macOS, and tvOS
+
+- [swiftshield](https://github.com/rockbruno/swiftshield)
+👉 🔒 Swift Obfuscator that protects iOS apps against reverse engineering attacks.
+
+- [keychain-swift](https://github.com/evgenyneu/keychain-swift)
+👉 Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
+
+- [UIImageColors](https://github.com/jathu/UIImageColors)
+👉 Fetches the most dominant and prominent colors from an image.
+
+- [ios-developer-tools](https://github.com/dillidon/ios-developer-tools)
+👉 🤓A collection of tools that an iOS developer should know.
+
+- [open-source-ios-apps](https://github.com/dillidon/open-source-ios-apps)
+👉 :iphone: Collaborative List of Open-Source iOS Apps
+
+- [iOS-Reverse-Tools](https://github.com/wilddylan/iOS-Reverse-Tools)
+👉 iOS Reverse Tools
+
+- [MHSlidingMenu](https://github.com/MasoudHeydari/MHSlidingMenu)
+👉 
+
+- [swiftshield](https://github.com/rockbruno/swiftshield)
+👉 🔒 Swift Obfuscator that protects iOS apps against reverse engineering attacks.
+
+- [sift-ios](https://github.com/agrinman/sift-ios)
+👉 Uncover network traffic in real-time for every app on your phone
+
+- [JailBreak-Detection](https://github.com/TheSwiftyCoder/JailBreak-Detection)
+👉 Swift 3: Function to handle jailbreak detection on iOS 
+
+- [owasp-mstg](https://github.com/OWASP/owasp-mstg)
+👉  The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+
+- [ios-jailBroken](https://github.com/sat2eesh/ios-jailBroken)
+👉 Detect if a device is jailbroken and also detect if an app is cracked on a non jailbrkoen device.
+
+- [UINotifications](https://github.com/WeTransfer/UINotifications)
+👉 Present custom in-app notifications easily in Swift
+
+- [PFSystemKit](https://github.com/perfaram/PFSystemKit)
+👉 The iOS/OSX system investigator
+
+- [Clutch](https://github.com/KJCracks/Clutch)
+👉 Fast iOS executable dumper
+
+- [SwiftLocation](https://github.com/malcommac/SwiftLocation)
+👉 Efficient and easy to use location tracking framework for iOS
+
+- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer)
+👉 This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
+- [bubble-icon-tabbar](https://github.com/Cuberto/bubble-icon-tabbar)
+👉 
+
+- [fluid-card](https://github.com/Cuberto/fluid-card)
+👉 
+
+- [rubber-range-picker](https://github.com/Cuberto/rubber-range-picker)
+👉 
+
+- [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing)
+👉 A circular progress bar for iOS written in Swift 
+
+- [flashy-tabbar](https://github.com/Cuberto/flashy-tabbar)
+👉 One another nice animated tabbar
+
+- [PullToReach](https://github.com/quickbirdstudios/PullToReach)
+👉 PullToReach is a simple drag-and-drop solution for adding pull-to-reach functionality to your app
+
+- [AKMaskField](https://github.com/artemkrachulov/AKMaskField)
+👉 Swift plugin which allow add mask to input field
+
+- [BlurredBgApp](https://github.com/insidegui/BlurredBgApp)
+👉 iOS 13 app that shows the user's wallpaper as its background.
+
+- [Omnia](https://github.com/onmyway133/Omnia)
+👉 :moyai: Everything your projects need to know
+
+- [EasyClosure](https://github.com/onmyway133/EasyClosure)
+👉 🍩 Unified communication patterns with easy closure in Swift
+
+- [Anchors](https://github.com/onmyway133/Anchors)
+👉 ⚓️ Declarative, extensible, powerful Auto Layout
+
+- [rxswift-to-combine-cheatsheet](https://github.com/freak4pc/rxswift-to-combine-cheatsheet)
+👉 RxSwift to Apple’s Combine Cheat Sheet
+
+- [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
+👉 Gathering all info published, both by Apple and by others, about new framework SwiftUI. 
+
+- [Symbolic](https://github.com/justMaku/Symbolic)
+👉 Type-safe wrapper for SF Symbols
+
+- [SwiftUI](https://github.com/Jinxiansen/SwiftUI)
+👉 `SwiftUI` Framework  Learning and Usage Guide. 🚀 https://jinxiansen.github.io/SwiftUI/
+
+- [balloon-picker](https://github.com/Cuberto/balloon-picker)
+👉 
+
+- [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
+👉 An elegant and simple progress HUD for iOS and tvOS, compatible with Swift and ObjC.
+
+- [Archit-iOS](https://github.com/intelygenz/Archit-iOS)
+👉 Intelygenz iOS Architecture
+
+- [merchantkit](https://github.com/benjaminmayo/merchantkit)
+👉 A modern In-App Purchases management framework for iOS.
+
+- [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)
+👉 A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+
+- [IAPurchaseManager](https://github.com/Vitaa/IAPurchaseManager)
+👉 Swift In-App Purchase Manager for iOS 
+
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)
+👉 Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
+
+- [manning-swift-in-depth](https://github.com/tjeerdintveen/manning-swift-in-depth)
+👉 Source code for Manning's book: Swift in depth
+
+- [CollectionViewWaterfallLayout](https://github.com/ecerney/CollectionViewWaterfallLayout)
+👉 Pinterest inspired layout for UICollectionViews
+
+- [Magnetic](https://github.com/efremidze/Magnetic)
+👉 SpriteKit Floating Bubble Picker (inspired by Apple Music) 🧲
+
+- [IAPKit](https://github.com/blackpixel/IAPKit)
+👉 A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials.
+
+- [ios-mvp-clean-architecture](https://github.com/FortechRomania/ios-mvp-clean-architecture)
+👉 Demo iOS application built to highlight MVP (Model View Presenter) and Clean Architecture concepts
+
+- [Sweep](https://github.com/JohnSundell/Sweep)
+👉 Fast and powerful Swift string scanning made simple
+
+- [AppStoreiOS11InteractiveTransition](https://github.com/aunnnn/AppStoreiOS11InteractiveTransition)
+👉 iOS 11 App Store Transition
+
+- [Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)
+👉 Collection of advice on optimizing compile times of Swift projects.
+
+- [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit)
+👉 Easily validate your Properties with Property Wrappers 👮
+
+- [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown)
+👉 Converts Markdown files and strings into NSAttributedString
+
+- [CellAnimator](https://github.com/warchimede/CellAnimator)
+👉 Cool animations for UITableViewCell in Swift language
+
+- [ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning)
+👉 ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.
+
+- [DifferenceKit](https://github.com/ra1028/DifferenceKit)
+👉 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
+
+- [Burritos](https://github.com/guillermomuntaner/Burritos)
+👉 A collection of Swift Property Wrappers (formerly "Property Delegates")
+
+- [SSCustomTabbar](https://github.com/simformsolutions/SSCustomTabbar)
+👉 Simple Animated tabbar with native control
+
+- [Proxyman](https://github.com/ProxymanApp/Proxyman)
+👉 A modern and intuitive HTTP Debugging Proxy for macOS & iOS 👨‍💻
+
+- [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout)
+👉 Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
+
+- [Stevia](https://github.com/freshOS/Stevia)
+👉 :leaves: Healthy Autolayout Sugar
+
+- [BrightFutures](https://github.com/Thomvis/BrightFutures)
+👉 Write great asynchronous code in Swift using futures and promises
+
+- [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
+👉 This repository holds the device support files for the iOS, and I will update it regularly.
+
+- [Cartography](https://github.com/robb/Cartography)
+👉 A declarative Auto Layout DSL for Swift :iphone::triangular_ruler:
+
+- [Jelly](https://github.com/SebastianBoldt/Jelly)
+👉 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
+
+- [Disk](https://github.com/saoudrizwan/Disk)
+👉 Delightful framework for iOS to easily persist structs, images, and data
+
+- [BiometricKeychain](https://github.com/appssemble/BiometricKeychain)
+👉 BiometricKeychain saves and fetches data from keychain only after the biometric validation succeded. If your device does not support biometric authentication or is not enabled, the library will store the items in the keychain without the need for authentication.
+
+- [CustomBottoBar](https://github.com/IslamBesto/CustomBottoBar)
+👉 
+
+- [appstore-card-transition](https://github.com/appssemble/appstore-card-transition)
+👉 Appstore card animation transition. UICollectionView and UITableView card expand animated transition for iOS
+
+- [FxDatePicker](https://github.com/GasimGasimzada/FxDatePicker)
+👉 A customizable DatePicker for iOS SDK.
+
+- [InfiniteLayout](https://github.com/arnauddorgans/InfiniteLayout)
+👉 Horizontal and Vertical infinite scrolling feature for UICollectionView with Paging, NSProxy delegate, Reactive extension, SectionModel & AnimatableSectionModel support
+
+- [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)
+👉 The Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable
+
+- [LGAlertView](https://github.com/Friend-LGA/LGAlertView)
+👉 Customizable implementation of UIAlertViewController, UIAlertView and UIActionSheet. All in one. You can customize every detail. Make AlertView of your dream! :)
+
+- [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)
+👉 SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
+
+- [SPAlert](https://github.com/ivanvorobei/SPAlert)
+👉 Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+
+- [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper)
+👉 A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.
+
+- [awesome-ios-ui](https://github.com/ivanvorobei/awesome-ios-ui)
+👉 A collaborative list of awesome UI & Animation only in Swift. Quick preview.
+
+- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+👉 Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
+
+- [Unrealm](https://github.com/arturdev/Unrealm)
+👉 Unrealm is an extension on RealmCocoa, which enables Swift native types to be saved in Realm.
+
+- [Panda](https://github.com/wordlessj/Panda)
+👉 Create view hierarchies declaratively.
+
 
 
 
@@ -1392,6 +1650,9 @@ Most of them can be used for Vapor framework.
 - [VaporSecurityHeaders](https://github.com/cak/VaporSecurityHeaders)
 👉 Harden Your Security Headers For Vapor
 
+- [Stencil](https://github.com/stencilproject/Stencil)
+👉 Stencil is a simple and powerful template language for Swift.
+
 ---
 
 ## React / React Native
@@ -1420,10 +1681,8 @@ Most of them can be used for Vapor framework.
 - [react-starter](https://github.com/drminnaar/react-starter)
 👉 A basic template that consists of the essential elements that are required to start building a React (v16.3) application using Webpack (v4)
 
-
 - [react-starter-project](https://github.com/rauschma/react-starter-project)
 👉 Minimal starter project for React: webpack + hot module reloading + ES6 and JSX via Babel
-
 
 - [evergreen](https://github.com/segmentio/evergreen)
 👉 Evergreen React UI Framework by Segment
@@ -1435,6 +1694,13 @@ Most of them can be used for Vapor framework.
 
 - [react-loadable](https://github.com/jamiebuilds/react-loadable)
 👉 A higher order component for loading components with promises.
+
+- [react-redux-links](https://github.com/markerikson/react-redux-links)
+👉 Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+
+- [react-datepicker2](https://github.com/mberneti/react-datepicker2)
+👉 react datepicker component.(include persian jalaali calendar)
+
 
 ---
 
@@ -1556,5 +1822,40 @@ Most of them can be used for Vapor framework.
 
 - [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
 👉 A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
+
+- [kong](https://github.com/Kong/kong)
+👉 :gorilla: The Cloud-Native API Gateway 
+
+- [cloc](https://github.com/AlDanial/cloc)
+👉 cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+- [darkmode-in-web](https://github.com/artlesshand/darkmode-in-web)
+👉 a minimal sample to test the dark mode compatibility on web
+
+- [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
+👉 Docker Cheat Sheet
+
+- [kutt](https://github.com/thedevs-network/kutt)
+👉 Free Modern URL Shortener.
+
+- [phoenix](https://github.com/Sazito/phoenix)
+👉 A simple boilerplate that helps you make your react application with Server Side Rendering support.
+
+- [Pock](https://github.com/pigigaldi/Pock)
+👉 Display macOS Dock in Touch Bar
+
+- [emotion](https://github.com/emotion-js/emotion)
+👉 👩‍🎤 CSS-in-JS library designed for high performance style composition
+
+- [stylelint](https://github.com/stylelint/stylelint)
+👉 A mighty, modern style linter
+
+- [awesome-persian](https://github.com/rastikerdar/awesome-persian)
+👉 لینک‌های ایرانی توسعه و طراحی
+
+- [JsQRScanner](https://github.com/jbialobr/JsQRScanner)
+👉 JavaScript QR Code scanner for HTML5 supporting browsers
+
+
 
 
