@@ -1581,6 +1581,97 @@ My Favorite Github Repositories
 - [Panda](https://github.com/wordlessj/Panda)
 👉 Create view hierarchies declaratively.
 
+- [promises](https://github.com/google/promises)
+👉 Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
+
+- [ProgressKit](https://github.com/kaunteya/ProgressKit)
+👉 Progress Views for Cocoa
+
+- [RE-iOS-Apps](https://github.com/ivRodriguezCA/RE-iOS-Apps)
+👉 A completely free, open source and online course about Reverse Engineering iOS Applications.
+
+- [ETNavBarTransparent](https://github.com/EnderTan/ETNavBarTransparent)
+👉 Change NavigationBar's transparency at pop gestrue and other situation
+
+- [Promise](https://github.com/khanlou/Promise)
+👉 A Promise library for Swift, based partially on Javascript's A+ spec
+
+- [SwiftSVG](https://github.com/mchoe/SwiftSVG)
+👉 A simple, performant, and lightweight SVG parser
+
+- [AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift)
+👉 📈📊📱📺💻An elegant and friendly data visualization chart framework for Apple developers . Extremely powerful ,supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.极其精美而又强大的跨平台数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.
+
+- [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)
+👉 SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
+
+- [Loaf](https://github.com/schmidyy/Loaf)
+👉 🍞 A Swifty Framework for Easy iOS Toasts 
+
+- [ImageViewer](https://github.com/Krisiacik/ImageViewer)
+👉 An image viewer à la Twitter
+
+- [Agrume](https://github.com/JanGorman/Agrume)
+👉 A lemony fresh iOS image viewer written in Swift.
+
+- [DTTJailbreakDetection](https://github.com/thii/DTTJailbreakDetection)
+👉 A jailbreak detection library for iOS
+
+- [Colander](https://github.com/blueapron/Colander)
+👉 A highly customizable iOS calendar view
+
+- [10Clock](https://github.com/joedaniels29/10Clock)
+👉 This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
+
+- [AltStore](https://github.com/rileytestut/AltStore)
+👉 AltStore is an alternative app store for non-jailbroken iOS devices.
+
+- [TinyCreditCard](https://github.com/bestwnh/TinyCreditCard)
+👉 A clear and animated credit card input workflow implement
+
+- [PTCardTabBar](https://github.com/hussc/PTCardTabBar)
+👉 Card-Style TabBarController for iOS
+
+- [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing)
+👉 A circular progress bar for iOS written in Swift 
+
+- [BubbleTransition](https://github.com/andreamazz/BubbleTransition)
+👉 A custom modal transition that presents and dismiss a controller with an expanding bubble effect.
+
+- [Shuffle](https://github.com/mac-gallagher/Shuffle)
+👉 🔥 A multi-directional card swiping library inspired by Tinder
+
+- [DWAlertController](https://github.com/podkovyrin/DWAlertController)
+👉 A UIAlertController re-implementation with controller containment support
+
+- [ZipArchive](https://github.com/ZipArchive/ZipArchive)
+👉 ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
+
+- [SNCollectionViewLayout](https://github.com/ahmedAlmasri/SNCollectionViewLayout)
+👉          Collection View Layouts is a set of custom flow layouts for iOS which imitate general data grid approaches for mobile apps.
+
+- [uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit)
+👉 📐 A set of custom layouts for UICollectionView with examples.
+
+- [CCHDarwinNotificationCenter](https://github.com/choefele/CCHDarwinNotificationCenter)
+👉 Inter-process signaling for iOS and OS X with addressable receivers using the Darwin notification center.
+
+- [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer)
+👉 An iOS/tvOS photo gallery viewer, useful for viewing a large (or small!) number of photos.
+
+- [NightNight](https://github.com/draveness/NightNight)
+👉 Elegant way to integrate night mode to swift projects
+
+- [INSPhotoGallery](https://github.com/inspace-io/INSPhotoGallery)
+👉 INSPhotoGallery is a modern looking photo gallery written in Swift for iOS.
+
+- [RealmTypeSafeQuery](https://github.com/kishikawakatsumi/RealmTypeSafeQuery)
+👉 A type-safe Realm query extensions using Swift 4 Smart KeyPaths
+
+- [ImageSlideShow](https://github.com/dimix/ImageSlideShow)
+👉 A Swift Image SlideShow for iOS
+
+
 
 
 
@@ -1706,6 +1797,15 @@ Most of them can be used for Vapor framework.
 - [react-datepicker2](https://github.com/mberneti/react-datepicker2)
 👉 react datepicker component.(include persian jalaali calendar)
 
+- [awesome-react-components](https://github.com/brillout/awesome-react-components)
+👉 Curated List of React Components & Libraries.
+
+- [nextjs-starterkit](https://github.com/jbbarth/nextjs-starterkit)
+👉 A NextJS+Express+Sequelize+TailwindCSS starter kit built with anger
+
+- [awesome-react](https://github.com/enaqx/awesome-react)
+👉 A collection of awesome things regarding React ecosystem
+
 
 ---
 
@@ -1736,6 +1836,13 @@ Most of them can be used for Vapor framework.
 
 - [caniuse-api](https://github.com/Nyalab/caniuse-api)
 👉 request the caniuse data to check browsers compatibilities
+
+- [kavenegar-node](https://github.com/kavenegar/kavenegar-node)
+👉 Kavenegar API Client Writen In Node
+
+- [compose-middleware](https://github.com/blakeembrey/compose-middleware)
+👉 Compose an array of middleware into a single function for use in Express, Connect, router, etc
+
 
 ---
 
@@ -1860,6 +1967,31 @@ Most of them can be used for Vapor framework.
 
 - [JsQRScanner](https://github.com/jbialobr/JsQRScanner)
 👉 JavaScript QR Code scanner for HTML5 supporting browsers
+
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+👉 A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
+
+- [persian-tools](https://github.com/ali-master/persian-tools)
+👉 An anthology of a variety of tools for Persian language in javascript
+
+- [logos-per-banks](https://github.com/zegond/logos-per-banks)
+👉 LogoS is a design project about logos. In clean vector and organized as libraries to use. This one includes logos of Banks and Payment Gateways of Iran
+
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)
+👉 List of awesome CSS frameworks
+
+- [ganjoor-api](https://github.com/nekofar/ganjoor-api)
+👉 Basic implementation of GraphQL using PHP based on Ganjoor API
+
+- [FiraCode](https://github.com/tonsky/FiraCode)
+👉 Monospaced font with programming ligatures
+
+- [iran-cities](https://github.com/ahmadazizi/iran-cities)
+👉 The most accurate database of city, county and province names of Iran.
+
+- [Estedad](https://github.com/aminabedi68/Estedad)
+👉 a Sans Serif Arabic-Latin text typeface
+
 
 
 
